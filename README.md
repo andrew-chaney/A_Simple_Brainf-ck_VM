@@ -1,1 +1,1 @@
-# A-Simple-Brainf-ck-Virtual-Machine
+# A Simple Brainf-ck Virtual Machine
